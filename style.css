@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 50px auto;
+}
+#student-rank {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 5px;
+}
+
+#student-rank td,
+#student-rank th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#student-rank tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#student-rank tr:hover {
+    background-color: #ddd;
+}
+
+#student-rank th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
