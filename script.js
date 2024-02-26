@@ -29,6 +29,16 @@ let rank = [
         solveCount: 0,
         timeCount: 0,
     },
+    {
+        id: 6,
+        imgLink: "",
+        fName: "Anamul Haque",
+        classRoll: 2301015,
+        presentCount: 0,
+        contestCount: 0,
+        solveCount: 0,
+        timeCount: 0,
+    },
 ];
 
 rank.sort ( (a, b) => {
