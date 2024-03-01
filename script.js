@@ -575,7 +575,7 @@ let rank = [
         fName: "Sumyea Rahman",
         classRoll: 2301013,
         presentCount: 7,
-        contestCount: 1,
+        contestCount: 2,
         solveCount: 4,
         timeCount: 541,
     },
